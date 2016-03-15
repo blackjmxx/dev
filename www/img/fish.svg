@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.1 (25234) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="food-fish" sketch:type="MSLayerGroup" transform="translate(-1.000000, -2.000000)">
+            <g id="Frame_-_24px" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-path" x="0" y="0" width="24" height="24.001"></rect>
+            </g>
+            <g id="Filled_Icons" transform="translate(2.000000, 2.000000)" sketch:type="MSShapeGroup">
+                <g id="Group">
+                    <path d="M17.414,12.575 C15.776,14.213 14.121,15.261 12.663,15.937 L13.029,17.403 C13.112,17.733 13.357,17.999 13.679,18.108 C13.785,18.144 13.892,18.161 13.999,18.161 C14.224,18.161 14.444,18.086 14.624,17.942 C17.963,15.271 18.506,12.908 18.375,11.382 C18.096,11.801 17.784,12.205 17.414,12.575 L17.414,12.575 Z" id="Shape" fill="#BDC3C7"></path>
+                    <path d="M1.758,8.13 L3.754,8.63 C4.375,6.934 5.506,4.827 7.586,2.746 C7.924,2.408 8.292,2.122 8.673,1.858 C7.049,1.843 4.463,2.644 1.232,6.52 C1.011,6.784 0.942,7.144 1.048,7.471 C1.156,7.798 1.424,8.047 1.758,8.13 L1.758,8.13 Z" id="Shape" fill="#BDC3C7"></path>
+                    <path d="M18.986,1.996 C18.916,1.575 18.586,1.245 18.164,1.174 C16.469,0.882 11.18,0.567 8.293,3.453 C4.953,6.793 4.214,10.148 4.049,11.517 L0.553,13.265 C0.266,13.41 0.065,13.683 0.013,14 C-0.039,14.318 0.066,14.64 0.293,14.867 L5.293,19.867 C5.51,20.084 5.824,20.2 6.16,20.148 C6.477,20.096 6.75,19.895 6.894,19.608 L8.642,16.111 C10.012,15.947 13.367,15.207 16.706,11.867 C20.033,8.542 19.031,2.262 18.986,1.996 L18.986,1.996 Z M14,6.16 C13.448,6.16 13,5.713 13,5.16 C13,4.608 13.448,4.16 14,4.16 C14.553,4.16 15,4.608 15,5.16 C15,5.713 14.553,6.16 14,6.16 L14,6.16 Z" id="Shape" fill="#6C7A89"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

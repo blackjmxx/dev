@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.1 (25234) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="places-home-4" sketch:type="MSLayerGroup">
+            <g id="Frames-24px" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-path" x="0" y="0" width="24" height="24"></rect>
+            </g>
+            <g id="Outline" transform="translate(1.000000, 2.000000)" fill="#8B572A" sketch:type="MSShapeGroup">
+                <path d="M20.96,9.159 C20.952,9.128 19.294,4.169 19.284,4.139 L19,3.002 L17.007,3.002 L17.007,0.002 L14.007,0.002 L14.007,3.002 L8.007,3.002 L8.007,0.002 L5.007,0.002 L5.007,3.002 L3,3.002 L2.716,4.139 L1.045,9.139 C0.926,9.62 1.039,10.06 1.295,10.396 C1.65,10.865 2.419,11.002 3.007,11.002 L3.007,20.002 L9.007,20.002 L9.007,16.002 L13.007,16.002 L13.007,20.002 L19.007,20.002 L19.007,11.002 C19.758,11.002 20.387,10.913 20.782,10.281 C20.991,9.947 21.056,9.542 20.96,9.159 L20.96,9.159 Z M8.007,15.002 L5.007,15.002 L5.007,12.002 L8.007,12.002 L8.007,15.002 L8.007,15.002 Z M17.007,15.002 L14.007,15.002 L14.007,12.002 L17.007,12.002 L17.007,15.002 L17.007,15.002 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

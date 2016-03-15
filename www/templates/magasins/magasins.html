@@ -1,0 +1,19 @@
+<style media="screen">
+.list:last-child.card {
+  margin-bottom: 10px;
+}
+</style>
+<ion-view title="Magasins">
+    <!--cube feed section-->
+    <ion-content id="">
+        <!--cube feed list section-->
+        <div ng-repeat="magasin in magasins" class="">
+          <div class="list card">
+                  <div class="">
+                  <img class="ui tiny circular centered image" src="{{magasin.img}}" alt="" ng-click="showlist(magasin.venues)"/>
+                  <span>{{magasins[$index].nb}} {{magasins[$index].name}}</span>
+                </div>
+              </div>
+            </div>
+    </ion-content><!--end cube feed section-->
+</ion-view>

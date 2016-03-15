@@ -1,0 +1,42 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "com.google.playservices": {
+            "PACKAGE_NAME": "com.ionicframework.ionicmaterialdesign506749"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "com.ionicframework.ionicmaterialdesign506749"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.ionicframework.ionicmaterialdesign506749"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.ionicframework.ionicmaterialdesign506749"
+        },
+        "cordova-plugin-transport-security": {
+            "PACKAGE_NAME": "com.ionicframework.ionicmaterialdesign506749"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.ionicframework.ionicmaterialdesign506749"
+        },
+        "cordova-plugin-x-socialsharing": {
+            "PACKAGE_NAME": "com.ionicframework.ionicmaterialdesign506749"
+        },
+        "cordova-sqlite-storage": {
+            "PACKAGE_NAME": "com.ionicframework.ionicmaterialdesign506749"
+        },
+        "org.apache.cordova.inappbrowser": {
+            "PACKAGE_NAME": "com.ionicframework.ionicmaterialdesign506749"
+        },
+        "cordova-plugin-audio-recorder-api": {
+            "PACKAGE_NAME": "com.ionicframework.ionicmaterialdesign506749"
+        }
+    },
+    "dependent_plugins": {}
+}

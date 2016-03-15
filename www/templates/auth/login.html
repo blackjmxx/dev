@@ -1,0 +1,42 @@
+<ion-view title="Login">
+    <ion-content has-header="true" has-tabs="true" padding="true"  class="color-back">
+        <div class="branding">
+            <img ng-src="img/CadynoApp_variations.svg" alt="Logo" class="ui small image"/>
+
+            <div class="ui huge header">
+                Cadyno App
+            </div>
+            <p>
+                Login to start !
+            </p>
+        </div>
+        <div class="ui grid">
+            <div class="card">
+                <div class="item" ng-show="error.message">
+                    <div class="ui centered tiny header text red ">
+                        {{error.message}}
+                    </div>
+                </div>
+                <label class="item item-input">
+                    <span class="input-label">Email</span>
+                    <input type="email" ng-model="user.username">
+                </label>
+                <label class="item item-input">
+                    <span class="input-label">Password</span>
+                    <input type="password" ng-model="user.password">
+                </label>
+
+                <div class="item">
+                    <button class="ui fluid button primary" ng-click="login()">
+                        Log in
+                    </button>
+                    <div class="ui centered row">
+                        <a href="#" class="" ng-click="forgot()" style="margin:10px auto;">
+                            Forgot your password?
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </ion-content>
+</ion-view>

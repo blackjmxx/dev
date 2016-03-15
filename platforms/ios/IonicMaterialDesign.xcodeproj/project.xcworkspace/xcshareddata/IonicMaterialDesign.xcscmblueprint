@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C186D015A754790DD74375FD2304AB26C90862C2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C186D015A754790DD74375FD2304AB26C90862C2" : 0,
+    "9537088DB55399BA7848C77EB01F33785D9DB7BF" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4B654C91-6472-4D6D-9907-02DD5C5FB298",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C186D015A754790DD74375FD2304AB26C90862C2" : "friendlyshopApp\/",
+    "9537088DB55399BA7848C77EB01F33785D9DB7BF" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "IonicMaterialDesign",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "IonicMaterialDesign\/platforms\/ios\/IonicMaterialDesign.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/Cid\/restobest-front.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9537088DB55399BA7848C77EB01F33785D9DB7BF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/osmoz\/friendlyshopApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C186D015A754790DD74375FD2304AB26C90862C2"
+    }
+  ]
+}

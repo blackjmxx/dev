@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.1 (25234) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="food-bread-loaf" sketch:type="MSLayerGroup">
+            <g id="Frame_-_24px" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-path" x="0.998" y="0.999" width="24.001" height="24.001"></rect>
+            </g>
+            <g id="Filled_Icons" transform="translate(3.000000, 5.000000)" fill="#F6B747" sketch:type="MSShapeGroup">
+                <path d="M12,10 L12,9 L18.203,9 C19.217,8.076 20,6.607 20,5 C20,2.243 17.757,0 15,0 L5,0 C2.243,0 0,2.243 0,5 C0,7.142 1.391,9.038 2.865,9.726 L2.013,14.835 C1.964,15.126 2.046,15.422 2.236,15.646 C2.427,15.871 2.706,16 3,16 L17,16 C17.294,16 17.573,15.871 17.764,15.646 C17.953,15.422 18.035,15.125 17.987,14.835 L17.181,10 L12,10 L12,10 Z M11,8 C10.706,8 10.427,8.13 10.236,8.354 C10.047,8.579 9.964,8.875 10.013,9.165 L10.819,14 L4.181,14 L4.987,9.165 C5.036,8.875 4.954,8.578 4.764,8.354 C4.573,8.13 4.294,8 4,8 C3.403,8 2,6.734 2,5 C2,3.346 3.346,2 5,2 L10,2 C11.654,2 13,3.346 13,5 C13,6.734 11.597,8 11,8 L11,8 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

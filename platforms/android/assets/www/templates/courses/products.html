@@ -1,0 +1,52 @@
+<style media="screen">
+  .hack
+  {
+    display: block;
+    text-align: center;
+    font-size: xx-small;
+  }
+</style>
+
+<ion-view title="Application Name" class="splash">
+  <ion-nav-buttons side="right">
+      <md-button ng-disabled="isLoading" class="md-icon-button ion-nav-button-right" ng-click="navigateTo('app.contractsetting')"
+                 aria-label="Setting">
+          <i class="ion-android-more-vertical"></i>
+      </md-button>
+  </ion-nav-buttons>
+  <div class="footer-fab-bar">
+      <a class="md-button md-accent md-fab fab-footer" ng-click="navigateTo('app.menuDashboard')" aria-label="Add">
+          <i class="fa fa-shopping-cart"></i>
+          <span>{{total}}</span>
+      </a>
+  </div>
+  <ion-content has-header="true" has-tabs="true" padding="true" class="splash center-content">
+    <div class="list list-inset">
+    <label class="item item-input">
+      <i class="icon ion-search placeholder-icon"></i>
+      <input type="text" placeholder="Search">
+    </label>
+  </div>
+    <div class="ui grid">
+      <div ng-repeat="product in products">
+        <div class="row" ng-if="$index%4==0">
+          <div class="col col-25" >
+            <img class="ui fluid rounded image" src="{{products[$index].img}}" alt="" on-hold="addProductToList(products[$index])"/>
+            <span class="hack">{{products[$index].name}}</span>
+          </div>
+          <div class="col col-25" >
+            <img class="ui fluid rounded image " src="{{products[$index + 1].img}}" alt="" on-hold="addProductToList(products[$index +1])"/>
+              <span class="hack">{{products[$index + 1].name}}</span>
+          </div>
+          <div class="col col-25" >
+            <img class="ui fluid rounded image " src="{{products[$index + 2].img}}" alt="" on-hold="addProductToList(products[$index+2])"/>
+              <span class="hack">{{products[$index + 2].name}}</span>
+          </div>
+          <div class="col col-25" >
+            <img class="ui fluid rounded image " src="{{products[$index + 3].img}}" alt="" on-hold="addProductToList(products[$index +3])"/>
+              <span class="hack">{{products[$index + 3].name}}</span>
+          </div>
+      </div>
+    </div>
+  </ion-content>
+</ion-view>

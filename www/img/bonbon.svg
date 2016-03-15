@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="25px" viewBox="0 0 24 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.1 (25234) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="food-icecream-5" sketch:type="MSLayerGroup">
+            <g id="Frame_-_24px" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-path" x="0" y="0" width="24" height="24.001"></rect>
+            </g>
+            <g id="Filled_Icons" transform="translate(7.000000, 2.000000)" sketch:type="MSShapeGroup">
+                <g id="Group">
+                    <rect id="Rectangle-path" fill="#FAE5CC" x="4" y="16" width="2" height="4"></rect>
+                    <path d="M5,0 C1.822,0 0,2.187 0,6 L0,14 C0,14.552 0.447,15 1,15 L9,15 C9.553,15 10,14.552 10,14 L10,6 C10,2.187 8.178,0 5,0 L5,0 Z M5,2 C5.82,2 8,2 8,6 L2,6 C2,2 4.18,2 5,2 L5,2 Z" id="Shape" fill="#92675E"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

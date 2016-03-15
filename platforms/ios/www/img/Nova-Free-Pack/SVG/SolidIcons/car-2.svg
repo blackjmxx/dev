@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.1 (25234) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="car-2" sketch:type="MSLayerGroup">
+            <g id="Frames-24px" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-path" x="0" y="0" width="24" height="24"></rect>
+            </g>
+            <g id="Outline" transform="translate(3.000000, 7.000000)" sketch:type="MSShapeGroup">
+                <g id="Group">
+                    <circle id="Oval" fill="#000100" cx="14.003" cy="13.006" r="2"></circle>
+                    <circle id="Oval" fill="#000100" cx="5.003" cy="13.006" r="2"></circle>
+                    <path d="M16.966,3.241 C15.711,1.279 13.521,0.006 11.069,0.006 C11.058,0.006 11.048,0.008 11.037,0.008 C11.026,0.008 11.015,0.006 11.004,0.006 C6.983,0.006 3.664,2.977 3.099,6.841 L3.004,7.006 L2.004,7.006 C0.9,7.006 0.004,7.902 0.004,9.006 L0.004,12.006 C0.004,12.558 0.452,13.006 1.004,13.006 L2.004,13.006 C2.004,11.35 3.348,10.006 5.004,10.006 C6.66,10.006 8.004,11.35 8.004,13.006 L11.004,13.006 C11.004,11.35 12.348,10.006 14.004,10.006 C15.66,10.006 17.004,11.35 17.004,13.006 L18.004,13.006 C18.556,13.006 19.004,12.558 19.004,12.006 L19.004,9.006 C19.003,6.961 18.229,4.886 16.966,3.241 L16.966,3.241 Z M5.093,7.006 C5.571,4.169 8.031,2.006 11.003,2.006 C13.975,2.006 16.436,4.169 16.913,7.006 L5.093,7.006 L5.093,7.006 Z" id="Shape" fill="#2A228A"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
